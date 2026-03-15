@@ -14,6 +14,7 @@ On Day 1, I focused on learning and practicing the fundamentals of SQL. The topi
 - SELECT – retrieving data from tables
 - WHERE – filtering data based on conditions
 - GROUP BY – grouping rows that have the same values
+- EXTRACT() - to find a specefic of only days & months & years from a full date 
 
 - Aggregate Functions
 - SUM() – calculating total values
