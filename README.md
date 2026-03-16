@@ -37,9 +37,9 @@ On Day 2, I practiced how to filter data using different conditions and how to s
 - BETWEEN – used to filter values that fall within a specific range
 
 - Comparison Operators
-  < – checks if a value is less than another value
-  > – checks if a value is greater than another value
-  = – checks if two values are equal
+- < – checks if a value is less than another value
+- > – checks if a value is greater than another value
+- = – checks if two values are equal
   These operators help in comparing values and filtering the required data from a table.
 
 - Other Concepts
