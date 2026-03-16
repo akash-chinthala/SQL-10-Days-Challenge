@@ -24,6 +24,31 @@ On Day 1, I focused on learning and practicing the fundamentals of SQL. The topi
 
 These queries helped me understand how to extract and summarize data from a database.
 
+
+Day 2 – Filtering and Sorting Data
+
+On Day 2, I practiced how to filter data using different conditions and how to sort query results to make the data easier to analyze.
+
+- Topics Covered
+
+- ASC – used to sort results in ascending order (from smallest to largest)
+- DESC – used to sort results in descending order (from largest to smallest)
+- AND – helps combine multiple conditions in a query so that all conditions must be true
+- BETWEEN – used to filter values that fall within a specific range
+
+- Comparison Operators
+  < – checks if a value is less than another value
+  > – checks if a value is greater than another value
+  = – checks if two values are equal
+  These operators help in comparing values and filtering the required data from a table.
+
+- Other Concepts
+- ORDER BY – used to arrange query results in a specific order
+- SELECT * – used to retrieve all columns from a table
+  
+Through these queries, I learned how to apply multiple conditions and sort data effectively, which is very useful when working with large datasets.
+
+
 Purpose of This Repository
 
 - To track my daily SQL learning progress
