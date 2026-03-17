@@ -38,11 +38,13 @@ On Day 2, I practiced how to filter data using different conditions and how to s
 - AND – helps combine multiple conditions in a query so that all conditions must be true
 - BETWEEN – used to filter values that fall within a specific range
 
-- Comparison Operators
-- < – checks if a value is less than another value
-- > – checks if a value is greater than another value
-- ( = ) checks if two values are equal
-- These operators help in comparing values and filtering the required data from a table.
+ Comparison Operators
+
+- `<` – checks if a value is less than another value  
+- `>` – checks if a value is greater than another value  
+- `=` – checks if two values are equal  
+
+These operators help in comparing values and filtering the required data from a table.
 
 - Other Concepts
 - ORDER BY – used to arrange query results in a specific order
