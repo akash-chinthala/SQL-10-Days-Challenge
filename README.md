@@ -11,6 +11,8 @@ Day 1 – Basic SQL Queries
 
 On Day 1, I focused on learning and practicing the fundamentals of SQL. The topics I worked on include:
 
+- Topics Covered
+
 - SELECT – retrieving data from tables
 - WHERE – filtering data based on conditions
 - GROUP BY – grouping rows that have the same values
@@ -27,7 +29,7 @@ These queries helped me understand how to extract and summarize data from a data
 
 Day 2 – Filtering and Sorting Data
 
-On Day 2, I practiced how to filter data using different conditions and how to sort query results to make the data easier to analyze.
+On Day 2, I practiced how to filter data using different conditions and how to sort query results to make the data easier to analyze:
 
 - Topics Covered
 
@@ -38,8 +40,7 @@ On Day 2, I practiced how to filter data using different conditions and how to s
 
 - Comparison Operators
 - < – checks if a value is less than another value
-- > – checks if a value is greater than another value
-- = – checks if two values are equal
+- > – checks if a value is greater than another value  AND  " = " checks if two values are equal
 - These operators help in comparing values and filtering the required data from a table.
 
 - Other Concepts
@@ -48,6 +49,20 @@ On Day 2, I practiced how to filter data using different conditions and how to s
   
 Through these queries, I learned how to apply multiple conditions and sort data effectively, which is very useful when working with large datasets.
 
+Day 3 – Aggregation & Data Grouping
+
+On Day 3, I focused on summarizing and organizing data using advanced aggregation techniques:
+
+- Topics Covered
+
+- AVG() – calculates the average value
+- COUNT() – counts total rows or grouped entries
+- ROUND() – rounds numeric values to desired precision
+- GROUP BY – groups rows for aggregation
+- HAVING – filters grouped data (used with aggregate functions)
+- LIMIT – restricts the number of rows returned
+  
+These concepts helped me understand how to analyze grouped data and control query output.
 
 Purpose of This Repository
 
