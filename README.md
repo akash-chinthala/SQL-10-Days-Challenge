@@ -67,6 +67,23 @@ On Day 3, I focused on summarizing and organizing data using advanced aggregatio
   
 These concepts helped me understand how to analyze grouped data and control query output.
 
+
+Day 4 – Data Cleaning & Aggregation
+
+On Day 4, I focused on cleaning and organizing data to make it more useful for analysis. I practiced removing duplicates, filtering specific values, and summarizing data.
+
+- Topics Covered
+
+- DISTINCT – used to remove duplicate records
+- GROUP BY – helps group similar data for analysis
+- SUM() – calculates total values like revenue or sales
+- IN – filters data using multiple conditions
+- CONCAT() – combines values for better output formatting
+- DROP() – deletes tables/databases permanently (used carefully)
+
+This day helped me understand how to make data cleaner and more meaningful for analysis. I’ll keep building on these skills in the next days 
+
+
 Purpose of This Repository
 
 - To track my daily SQL learning progress
