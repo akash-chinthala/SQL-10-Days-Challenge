@@ -84,6 +84,22 @@ On Day 4, I focused on cleaning and organizing data to make it more useful for a
 This day helped me understand how to make data cleaner and more meaningful for analysis. I’ll keep building on these skills in the next days 
 
 
+Day 5 – Conditional Logic in SQL
+
+On Day 5, I focused on using conditional logic in SQL to make my queries more flexible and meaningful. This helped me understand how to categorize data and generate custom outputs based on different conditions.
+
+- Topics Covered
+
+- CASE – used to apply conditions inside queries
+- WHEN – checks specific conditions
+- THEN – returns a result when the condition is true
+- ELSE – gives a default result if no condition matches
+- END – closes the CASE statement
+- GROUP BY – groups data for better analysis
+
+This day helped me learn how to add logic into SQL queries, which makes them much more useful for real-world data analysis. I’ll keep practicing and improving in the coming days
+
+
 Purpose of This Repository
 
 - To track my daily SQL learning progress
