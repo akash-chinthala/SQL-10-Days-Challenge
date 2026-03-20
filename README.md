@@ -97,7 +97,23 @@ On Day 5, I focused on using conditional logic in SQL to make my queries more fl
 - END – closes the CASE statement
 - GROUP BY – groups data for better analysis
 
-This day helped me learn how to add logic into SQL queries, which makes them much more useful for real-world data analysis. I’ll keep practicing and improving in the coming days
+This day helped me learn how to add logic into SQL queries, which makes them much more useful for real-world data analysis.
+
+
+Day 6 – Advanced Queries & Data Handling
+
+On Day 6, I practiced writing more advanced SQL queries and learned how to work with data in a more structured way. It helped me understand how to solve complex problems step by step using SQL.
+
+- Topics Covered
+
+- Subqueries – writing a query inside another query for complex tasks
+- OFFSET – skipping a set number of rows in the result
+- INSERT – adding new data into a table
+- AS – using aliases to make queries easier to read
+- GROUP BY – organizing data for summary results
+- Comparison Operators – comparing values like =, >, <
+
+This day helped me get more comfortable with handling complex queries and working with data efficiently.
 
 
 Purpose of This Repository
