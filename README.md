@@ -116,6 +116,25 @@ On Day 6, I practiced writing more advanced SQL queries and learned how to work 
 This day helped me get more comfortable with handling complex queries and working with data efficiently.
 
 
+Day 7 – Window Functions in SQL
+
+On Day 7, I explored window functions, which allow us to perform calculations across a set of rows without grouping them. This helped me analyze data in a more advanced and efficient way.
+
+- Topics Covered
+  
+- OVER() – defines the window (set of rows) for the function
+- RANK() – assigns rank to rows, with gaps in ranking for ties
+- DENSE_RANK() – assigns rank without gaps between values
+- ROW_NUMBER() – gives a unique number to each row
+- PARTITION BY – divides data into groups for window functions
+- ORDER BY – defines the order within each partition
+- LAG() – accesses data from the previous row
+- FIRST_VALUE() – returns the first value in a partition
+  
+This day helped me understand how powerful window functions are for real-world data analysis.
+
+
+
 Purpose of This Repository
 
 - To track my daily SQL learning progress
