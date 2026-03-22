@@ -7,7 +7,9 @@ About This Challenge
 The goal of this challenge is to build a strong foundation in SQL by solving queries daily. Each day I focus on different SQL concepts and practice them using sample datasets.
 This helps me understand how SQL works in real-world data analysis.
 
-Day 1 – Basic SQL Queries
+
+
+-- Day 1 – Basic SQL Queries
 
 On Day 1, I focused on learning and practicing the fundamentals of SQL. The topics I worked on include:
 
@@ -27,7 +29,8 @@ On Day 1, I focused on learning and practicing the fundamentals of SQL. The topi
 These queries helped me understand how to extract and summarize data from a database.
 
 
-Day 2 – Filtering and Sorting Data
+
+-- Day 2 – Filtering and Sorting Data
 
 On Day 2, I practiced how to filter data using different conditions and how to sort query results to make the data easier to analyze:
 
@@ -52,7 +55,9 @@ These operators help in comparing values and filtering the required data from a 
   
 Through these queries, I learned how to apply multiple conditions and sort data effectively, which is very useful when working with large datasets.
 
-Day 3 – Aggregation & Data Grouping
+
+
+-- Day 3 – Aggregation & Data Grouping
 
 On Day 3, I focused on summarizing and organizing data using advanced aggregation techniques:
 
@@ -68,7 +73,8 @@ On Day 3, I focused on summarizing and organizing data using advanced aggregatio
 These concepts helped me understand how to analyze grouped data and control query output.
 
 
-Day 4 – Data Cleaning & Aggregation
+
+-- Day 4 – Data Cleaning & Aggregation
 
 On Day 4, I focused on cleaning and organizing data to make it more useful for analysis. I practiced removing duplicates, filtering specific values, and summarizing data.
 
@@ -84,7 +90,8 @@ On Day 4, I focused on cleaning and organizing data to make it more useful for a
 This day helped me understand how to make data cleaner and more meaningful for analysis. I’ll keep building on these skills in the next days 
 
 
-Day 5 – Conditional Logic in SQL
+
+-- Day 5 – Conditional Logic in SQL
 
 On Day 5, I focused on using conditional logic in SQL to make my queries more flexible and meaningful. This helped me understand how to categorize data and generate custom outputs based on different conditions.
 
@@ -100,7 +107,8 @@ On Day 5, I focused on using conditional logic in SQL to make my queries more fl
 This day helped me learn how to add logic into SQL queries, which makes them much more useful for real-world data analysis.
 
 
-Day 6 – Advanced Queries & Data Handling
+
+-- Day 6 – Advanced Queries & Data Handling
 
 On Day 6, I practiced writing more advanced SQL queries and learned how to work with data in a more structured way. It helped me understand how to solve complex problems step by step using SQL.
 
@@ -116,7 +124,8 @@ On Day 6, I practiced writing more advanced SQL queries and learned how to work 
 This day helped me get more comfortable with handling complex queries and working with data efficiently.
 
 
-Day 7 – Window Functions in SQL
+
+-- Day 7 – Window Functions in SQL
 
 On Day 7, I explored window functions, which allow us to perform calculations across a set of rows without grouping them. This helped me analyze data in a more advanced and efficient way.
 
@@ -135,19 +144,34 @@ This day helped me understand how powerful window functions are for real-world d
 
 
 
-Purpose of This Repository
+-- Day 8 – KPI Analysis & Window Functions
+
+On Day 8, I worked on solving KPI-based questions and continued practicing window functions. This gave me a better understanding of how SQL is used in real-world business scenarios to analyze performance and trends.
+
+- Topics Covered
+  
+- KPI Queries – used to analyze metrics like sales and revenue
+- Window Functions – for performing advanced analysis without grouping data
+- RANK(), DENSE_RANK(), ROW_NUMBER() – ranking data based on different conditions
+- PARTITION BY – splitting data into groups for analysis
+- ORDER BY – sorting data within those groups
+
+This day helped me see how SQL can be used for real business insights and improved my analytical thinking.
+
+
+-- Purpose of This Repository
 
 - To track my daily SQL learning progress
 - To practice writing efficient SQL queries
 - To build a portfolio that demonstrates my SQL skills
 
-Tools Used
+-- Tools Used
 
 - SQL
 - MySQL / SQL workbench
 - GitHub for version control
 
-Author
+-- Author
 
 Akash Chinthala
 
