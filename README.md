@@ -159,6 +159,21 @@ On Day 8, I worked on solving KPI-based questions and continued practicing windo
 This day helped me see how SQL can be used for real business insights and improved my analytical thinking.
 
 
+-- Day 9 – Real-World Business Queries & Date Analysis
+
+On Day 9, I focused on solving real-world business and KPI-based questions using SQL. I also practiced working with date functions and subqueries to analyze time-based data more effectively.
+
+- Topics Covered
+  
+- Business & KPI Queries – solving real-world problems using sales and performance data
+- Date Functions – using CURRENT_DATE, EXTRACT, and INTERVAL for time-based analysis
+- Subqueries – breaking down complex queries into smaller parts
+- LAG() – comparing current data with previous records
+- Time-based Analysis – analyzing trends over days, months, or periods
+
+This day helped me understand how SQL is used in real business scenarios, especially for tracking performance over time.
+
+
 -- Purpose of This Repository
 
 - To track my daily SQL learning progress
