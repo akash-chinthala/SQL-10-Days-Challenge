@@ -173,6 +173,22 @@ On Day 9, I focused on solving real-world business and KPI-based questions using
 
 This day helped me understand how SQL is used in real business scenarios, especially for tracking performance over time.
 
+-- Day 10 – Advanced SQL & Comprehensive Practice
+ 
+On Day 10, I focused on combining all the SQL concepts I’ve learned over the past days. I practiced writing complex queries to analyze data efficiently and solve real-world problems.
+
+- Topics Covered
+  
+- Aggregates – using SUM(), COUNT(), AVG(), MIN(), MAX() to summarize data
+- Grouping – organizing data with GROUP BY
+- Window Functions – using LAG(), RANK(), SUM() OVER() for advanced analysis
+- Date Functions – extracting parts of dates with EXTRACT()
+- CTEs – writing reusable queries with WITH
+- Joins – combining data from multiple tables using JOIN
+- Conditional Logic – applying CASE WHEN for dynamic outputs
+- Distinct / Aliasing – removing duplicates with DISTINCT and improving readability with AS
+
+Completing this 10-day challenge helped me build a strong foundation in SQL.
 
 -- Purpose of This Repository
 
@@ -190,4 +206,4 @@ This day helped me understand how SQL is used in real business scenarios, especi
 
 Akash Chinthala
 
-I will continue updating this repository as I progress through the remaining days of the SQL challenge.
+Completing this 10-day challenge helped me build a strong foundation in SQL. I now feel confident in solving both practical business problems and advanced data analysis tasks using SQL ...
